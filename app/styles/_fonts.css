@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Futura Round";
+  src: url("fonts/FuturaRoundBold/FuturaRoundBold.eot");
+  src: url("fonts/FuturaRoundBold/FuturaRoundBold.eot?#iefix")format("embedded-opentype"),
+  url("fonts/FuturaRoundBold/FuturaRoundBold.woff") format("woff"),
+  url("fonts/FuturaRoundBold/FuturaRoundBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Futura Round";
+  src: url("fonts/FuturaRoundBoldItalic/FuturaRoundBoldItalic.eot");
+  src: url("fonts/FuturaRoundBoldItalic/FuturaRoundBoldItalic.eot?#iefix")format("embedded-opentype"),
+  url("fonts/FuturaRoundBoldItalic/FuturaRoundBoldItalic.woff") format("woff"),
+  url("fonts/FuturaRoundBoldItalic/FuturaRoundBoldItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: bold;
+}

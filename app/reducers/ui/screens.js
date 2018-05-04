@@ -1,0 +1,2 @@
+export const SCREEN_GAMEPLAY = 'SCREEN_GAMEPLAY'
+export const SCREEN_MAIN = 'SCREEN_MAIN'
